@@ -47,9 +47,8 @@ A Flutter mobile authentication app with OTP-based login, built using the provid
 
 ## 4. Screenshots of the App
 
-![Splash Screen](assets/images/splash_screen.jpeg)
-![Login Screen](assets/images/login_screen.jpeg)
-![OTP Screen](assets/images/otp_screen.jpeg)
-![Home Screen](assets/images/home_screen.jpeg)
+![Splash Screen](assets/images/splash_screen.jpeg)   ![Login Screen](assets/images/login_screen.jpeg)
+
+![OTP Screen](assets/images/otp_screen.jpeg)    ![Home Screen](assets/images/home_screen.jpeg)
 
 ---
